@@ -14,11 +14,12 @@
 
 6. git push -u origin master
 
-2. Perbedaan git revert dan git reset
+
+2 Perbedaan git revert dan git reset
 
 Git revert akan akan mengambil kondisi file yang dituju, kemudian menggabungkannya dengan commit terakhir. Sedangkan git reset akan menghapus catatan seluruh commit yang telah dilakukan setelahnya.
 
-3. Perbedaan git dan github 
+3 Perbedaan git dan github 
 
 Git merupakan alat version control. GitHub merupakan alat version control sekaligus sebagai penyimpanan cloud
 
